@@ -1,0 +1,10 @@
+h1,
+h2 {
+    background-color: blue;
+    color: white;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
